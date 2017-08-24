@@ -1,6 +1,6 @@
 {
   "name": "svelte-transitions-scale",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Scale transition plugin for Svelte",
   "main": "index.js",
   "module": "module.js",
